@@ -1,0 +1,20 @@
+{
+  "name": "paimonmoe",
+  "assetdir": "frontend/dist",
+  "frontend:build": "",
+  "frontend:install": "pnpm install",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "Paimon.moe Wish Importer.exe",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "Made Baruna"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}

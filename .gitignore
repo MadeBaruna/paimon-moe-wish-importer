@@ -1,0 +1,5 @@
+# Wails bin directory
+build/bin
+
+# The black hole that is...
+node_modules
